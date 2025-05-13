@@ -5,9 +5,9 @@ velocidad_escape = float(0)
 
 print ("Ingrese el radio en Kilometros : ")
 r = input()
-r = float(r)*1000
+r = float(r) * 1000
 
-print ("Ingrese la constante g (m/s2): ")
+print ("Ingrese la constante g (m/s\u00b2): ")
 g = input()
 g = float(g)
 
