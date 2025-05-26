@@ -18,5 +18,5 @@ u_anterior = float(u_anterior)
 utilidades = p * u - gastos_totales
 
 razon = utilidades/u_anterior
-round(razon, 2)
-print(f"Razón  : {razon} ")
+
+print(f"Razón  : {razon:.2} ")
